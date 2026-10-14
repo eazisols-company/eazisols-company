@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=EAZISOLS&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Engineering%20Ideas%20Into%20Digital%20Products&descSize=19&descAlignY=60" alt="Eazisols — Engineering Ideas Into Digital Products" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Muhammad%20Asad&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Technical%20Consultant%20%7C%20CEO%20at%20Eazisols&descSize=16&descAlignY=60" alt="Muhammad Asad — Full Stack Developer, Technical Consultant, CEO at Eazisols" />
 
-### We build software. Connect systems. Automate businesses.
+### I build software. Connect systems. Automate workflows.
 
-From SaaS platforms to AI agents, we turn complex requirements  
-into practical products that businesses can depend on.
+From SaaS platforms to AI agents, I turn complex business requirements  
+into practical applications that people can depend on.
 
 <br />
 
@@ -15,31 +15,31 @@ into practical products that businesses can depend on.
 
 <br />
 
-**CUSTOM SOFTWARE &nbsp; • &nbsp; AI AUTOMATION &nbsp; • &nbsp; BUSINESS INTEGRATIONS**
+**FULL STACK DEVELOPMENT &nbsp; • &nbsp; TECHNICAL CONSULTING &nbsp; • &nbsp; PROJECT MANAGEMENT**
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eazisols.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/74803052/)
-[![Email](https://img.shields.io/badge/Email_Us-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@eazisols.com)
+[![Website](https://img.shields.io/badge/Eazisols_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eazisols.com)
+[![Company LinkedIn](https://img.shields.io/badge/Eazisols_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/74803052/)
+[![Business Email](https://img.shields.io/badge/Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@eazisols.com)
 
 </div>
 
 ---
 
-## 👋 The Team Behind the Code
+## 👋 About Me
 
-**Eazisols** is a software development and technology consulting company led by **Muhammad Asad**.
+I'm **Muhammad Asad**, a full-stack developer, technical consultant, project manager, and **CEO at Eazisols**, based in Lahore, Pakistan.
 
-We help businesses launch products, modernize operations, and connect the tools they use every day. Our work spans frontend development, backend architecture, databases, cloud deployment, and intelligent automation.
+My background combines hands-on software engineering with project delivery and business consulting. I work across frontend development, backend architecture, databases, integrations, cloud deployment, and AI automation.
 
-From the first requirement to deployment and ongoing support, we focus on clear communication, practical solutions, and software built around your business.
+I help businesses translate ideas and operational challenges into clear technical plans and working software—from the first requirement through launch and ongoing improvement.
 
-**Our approach:** understand the business, plan clearly, build carefully, and support what we deliver.
+**My approach:** understand the problem, plan clearly, build carefully, and take ownership of delivery.
 
 ---
 
-## 🚀 What We Bring to Your Business
+## 🚀 What I Work On
 
 <table>
 <tr>
@@ -47,14 +47,14 @@ From the first requirement to deployment and ongoing support, we focus on clear 
 
 ### 🏗️ SaaS & Custom Platforms
 
-Multi-tenant applications, subscriptions, billing, customer portals, and administration dashboards.
+I design and develop multi-tenant applications with subscriptions, billing, customer portals, and administration dashboards.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 AI Agents & Automation
 
-AI receptionists, conversational assistants, appointment booking, and connected workflows.
+I build AI receptionists, conversational assistants, appointment booking flows, and connected workflows.
 
 </td>
 </tr>
@@ -63,30 +63,30 @@ AI receptionists, conversational assistants, appointment booking, and connected 
 
 ### 🔗 APIs & Business Integrations
 
-CRM, accounting, e-commerce, and field-service integrations with two-way data synchronization.
+I connect CRM, accounting, e-commerce, and field-service platforms through APIs and two-way data synchronization.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web & Mobile Applications
 
-Responsive web applications and mobile experiences built around your users.
+I develop responsive web applications and mobile experiences built around real user needs.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Operational Software
+### 💼 Business Management Systems
 
-Project management, HR, payroll, fleet management, CRM, and ERP systems.
+I work on project management, HR, payroll, fleet management, CRM, and ERP applications.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-commerce Solutions
+### 🧭 Technical Consulting & Delivery
 
-Shopify, WooCommerce, and OpenCart development with payment, shipping, and business integrations.
+I turn requirements into architecture, scope, milestones, and development plans, then guide delivery through launch.
 
 </td>
 </tr>
@@ -94,13 +94,11 @@ Shopify, WooCommerce, and OpenCart development with payment, shipping, and busin
 
 ---
 
-## 💻 Our Technology Stack
+## 💻 My Technology Stack
 
-Tools and technologies we use to build, connect, and scale business applications.
+Technologies I work with across application development, integrations, and deployment.
 
 ### ⚡ Languages
-
-**The foundations behind our applications.**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -113,7 +111,7 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ### 🎨 Frontend & User Experience
 
-**Responsive interfaces that make complex workflows easy to use.**
+**Responsive interfaces for customer-facing products and internal tools.**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -126,7 +124,7 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ### 🧠 Backend & Application Architecture
 
-**Business logic, APIs, and services that power the product.**
+**Business logic, APIs, and services that power the application.**
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -140,7 +138,7 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ### 📱 Mobile Development
 
-**Connected experiences that go wherever your users work.**
+**Connected mobile experiences for business and everyday use.**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -150,7 +148,7 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ### 🗄️ Databases & Caching
 
-**Structured data, efficient queries, and faster application performance.**
+**Data modeling, efficient queries, and application performance.**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -163,7 +161,7 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ### ☁️ Cloud & Infrastructure
 
-**Deployment environments built to support everyday operations.**
+**Deploying and maintaining applications beyond local development.**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -197,14 +195,14 @@ Tools and technologies we use to build, connect, and scale business applications
 
 - 📞 **Voice agents** for reception, inquiries, and appointment scheduling.
 - 💬 **Conversational assistants** for lead qualification and customer workflows.
-- ⚙️ **Workflow automation** that connects applications and reduces repetitive work.
-- 🔄 **Background processing** for scheduled tasks and data synchronization.
+- ⚙️ **Workflow automation** to connect applications and reduce repetitive tasks.
+- 🔄 **Background processing** for scheduled jobs and data synchronization.
 
 ---
 
 ### 🛒 E-commerce & Content Platforms
 
-**Digital storefronts connected to your business operations.**
+**Storefronts and websites connected to business operations.**
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
@@ -229,46 +227,45 @@ Tools and technologies we use to build, connect, and scale business applications
 
 ---
 
-## 🏆 Selected Capabilities
+## 🎯 What I Bring to a Project
 
-- Architecting and delivering complete SaaS products.
-- Building operational dashboards, customer portals, and administration systems.
-- Connecting CRM, accounting, e-commerce, and field-service platforms.
-- Developing AI voice and messaging agents for business workflows.
-- Implementing role-based access and multi-tenant application structures.
-- Managing development from requirements through launch and ongoing support.
+- **Hands-on engineering:** Working across frontend, backend, databases, and integrations.
+- **Business understanding:** Translating operational needs into practical software.
+- **Technical planning:** Defining architecture, scope, dependencies, and delivery milestones.
+- **Team coordination:** Keeping development, QA, and client communication aligned.
+- **Delivery ownership:** Supporting the product from requirements through deployment and maintenance.
 
 ---
 
-## ✨ How We Deliver
+## ✨ How I Work
 
-| Discover & Plan | Design & Build | Test & Launch | Support & Improve |
+| Understand & Plan | Design & Build | Test & Launch | Support & Improve |
 |:---:|:---:|:---:|:---:|
-| Understand your goals | Develop the product | Verify key workflows | Maintain and refine |
-| Define scope and milestones | Connect systems and APIs | Prepare deployment | Support continued growth |
+| Clarify goals and workflows | Develop the application | Verify key user journeys | Maintain and refine |
+| Define scope and milestones | Connect systems and APIs | Prepare deployment | Plan future improvements |
 
 ---
 
 <div align="center">
 
-## 🤝 Let’s Build Your Next Product
+## 🤝 Let’s Build Something Useful
 
-**Have an idea, a disconnected system, or a workflow ready for automation?**
+**Have a product idea, an integration challenge, or a workflow ready for automation?**
 
-We collaborate with businesses, startups, and agencies on  
-custom development, integrations, and ongoing product support.
+I'm open to development projects, technical consulting,  
+agency collaborations, and ongoing product support.
 
 <br />
 
-[![Website](https://img.shields.io/badge/Explore_Our_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eazisols.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/74803052/)
+[![Website](https://img.shields.io/badge/Explore_Eazisols-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eazisols.com)
+[![Company LinkedIn](https://img.shields.io/badge/Eazisols_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/company/74803052/)
 [![Email](https://img.shields.io/badge/Discuss_Your_Project-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@eazisols.com)
 
 <br />
 
 **[eazisols.com](https://eazisols.com) · [info@eazisols.com](mailto:info@eazisols.com)**
 
-**Eazisols · Built around your business.**
+**Muhammad Asad · Full Stack Developer & Technical Consultant**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer" alt="" />
 
