@@ -1,55 +1,124 @@
+<div align="center">
+
 # Eazisols
+### Software that connects your business. AI that moves it forward.
 
-**Custom Software Development | SaaS Platforms | AI Agents & Automation | Business Integrations**
+We design and build SaaS platforms, business applications,  
+AI agents, and integrations that simplify everyday operations.
 
-We build software that helps businesses manage operations, connect systems, and automate everyday work.
+**Custom Software · Web & Mobile Apps · AI Automation · API Integrations**
 
-Led by Muhammad Asad, Eazisols combines software engineering, project management, and technical consulting to take projects from requirements and architecture through development, deployment, and ongoing support.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## What We Build
+📍 **Lahore, Pakistan** &nbsp; • &nbsp; 🌍 **Working with clients worldwide**
 
-- **SaaS Platforms:** Multi-tenant applications with user roles, subscriptions, billing, reporting, and administration.
-- **Business Software:** CRM, ERP, project management, HR, payroll, fleet, and equipment management systems.
-- **Web & Mobile Applications:** Responsive websites, customer portals, internal dashboards, and mobile apps.
-- **AI Agents & Automation:** AI receptionists, conversational assistants, appointment booking, and workflow automation.
-- **Integrations & Data Sync:** APIs, webhooks, and two-way synchronization between business platforms.
-- **E-commerce Solutions:** Shopify, WooCommerce, and OpenCart development and integrations.
+</div>
 
-## Technology Stack
+---
 
-| Category | Technologies |
+## 👋 Meet Eazisols
+
+We help businesses turn ideas, complex workflows, and disconnected systems into practical software.
+
+Led by **Muhammad Asad**, our team brings together software development, technical consulting, and project management. We work across the complete delivery cycle—from requirements and architecture to development, testing, deployment, and ongoing support.
+
+Our focus is simple: **build reliable software that makes work easier.**
+
+## 🚀 What We Build
+
+| | Service | What it delivers |
+|:--:|---|---|
+| 🏗️ | **SaaS Platforms** | Multi-tenant products with subscriptions, billing, permissions, and reporting |
+| 💼 | **Business Applications** | CRM, ERP, HR, payroll, project management, and fleet management systems |
+| 🌐 | **Web Applications** | Customer portals, responsive dashboards, and internal operational tools |
+| 📱 | **Mobile Applications** | Connected mobile experiences with React Native, Expo, and .NET MAUI |
+| 🤖 | **AI Agents & Automation** | AI receptionists, conversational assistants, booking flows, and automated workflows |
+| 🔗 | **APIs & Integrations** | Platform integrations, webhooks, and two-way data synchronization |
+| 🛒 | **E-commerce Solutions** | Shopify, WooCommerce, and OpenCart development and integrations |
+
+## 🧰 Our Technology Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### Databases & Caching
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & Delivery
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
+
+## 🔌 Platforms We Connect
+
+| Area | Platforms & Capabilities |
 |---|---|
-| Languages | C#, TypeScript, JavaScript, PHP, Python, SQL |
-| Frontend | React, Next.js, Vue.js, Tailwind CSS |
-| Backend | ASP.NET Core, ASP.NET MVC, Node.js, NestJS, Laravel, Django, Flask |
-| Mobile | React Native, Expo, .NET MAUI |
-| Databases | SQL Server, PostgreSQL, MySQL, MongoDB |
-| Data & Infrastructure | Entity Framework, Redis, Docker |
-| Cloud & Deployment | Azure, Google Cloud, AWS, Vercel, IIS, Plesk |
-| Development Tools | Git, GitHub, Azure DevOps |
-| CMS & E-commerce | WordPress, Shopify, WooCommerce, OpenCart |
+| **CRM & Operations** | GoHighLevel, FieldRoutes, ServiceMinder |
+| **Accounting & Payments** | QuickBooks, Stripe |
+| **AI & Voice** | OpenAI, ElevenLabs, Twilio |
+| **Workflow Automation** | n8n, webhooks, scheduled jobs, background queues |
+| **E-commerce & CMS** | Shopify, WooCommerce, OpenCart, WordPress |
+| **Google Services** | Maps, Places, Gmail, OAuth |
+| **Custom Systems** | REST APIs, data migration, two-way synchronization |
 
-## Integrations & Platforms
+## ✨ Engineering Focus
 
-- **CRM & Operations:** GoHighLevel, FieldRoutes, ServiceMinder
-- **Accounting & Payments:** QuickBooks, Stripe
-- **Voice & Communications:** Twilio, ElevenLabs
-- **AI & Automation:** OpenAI, n8n
-- **Google Services:** Maps, Places, Gmail, OAuth
-- **Custom Integrations:** REST APIs, webhooks, scheduled jobs, and background queues
+- **Clear architecture:** Applications structured around business needs and future growth.
+- **Connected operations:** Integrations that reduce duplicate entry and manual work.
+- **Practical automation:** AI and workflows that support real operational tasks.
+- **Access control:** Role-based permissions and tenant-aware application design.
+- **Reliable delivery:** Testing, deployment planning, monitoring, and ongoing maintenance.
 
-## How We Work
+## 🛠️ From Idea to Launch
 
-- Turn business requirements into clear technical plans.
-- Design applications around user roles and operational workflows.
-- Build frontend, backend, database, and integration components.
-- Test functionality, permissions, and important user journeys.
-- Deploy applications and provide ongoing maintenance.
+**Discover → Plan → Design → Build → Test → Launch → Support**
 
-## Work With Us
+We turn requirements into clear milestones, keep communication practical, and support the product beyond its first release.
 
-We collaborate with businesses, startups, and agencies on custom development, integrations, automation, and long-term product support.
+---
 
-**Based in Lahore, Pakistan · Working with clients internationally**
+<div align="center">
 
-Contact us through our company website or the business email listed on this profile.
+## 🤝 Let’s Build Something Useful
+
+Have a product idea, an integration challenge, or a workflow ready for automation?
+
+**We’re open to development projects, agency partnerships,  
+and ongoing product support.**
+
+Reach us through the website or business email listed on this profile.
+
+**Eazisols · Built around your business**
+
+</div>
