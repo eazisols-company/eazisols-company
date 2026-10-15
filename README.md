@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:047857,100:14B8A6&height=230&section=header&text=Abdul%20Qadadeer&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Technical%20Consultant%20%7C%20CEO%20at%20Eazisols&descSize=16&descAlignY=60" alt="Abdul Qadadeer — Full Stack Developer, Technical Consultant, CTO at Eazisols" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:047857,100:14B8A6&height=230&section=header&text=Abdul%20Qadadeer&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Technical%20Consultant%20%7C%20CTO%20at%20Eazisols&descSize=16&descAlignY=60" alt="Abdul Qadadeer — Full Stack Developer, Technical Consultant, CTO at Eazisols" />
 
 ### I build software. Connect systems. Automate workflows.
 
