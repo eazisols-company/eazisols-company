@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Muhammad%20Asad&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Technical%20Consultant%20%7C%20CEO%20at%20Eazisols&descSize=16&descAlignY=60" alt="Muhammad Asad — Full Stack Developer, Technical Consultant, CEO at Eazisols" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:047857,100:14B8A6&height=230&section=header&text=Abdul%20Qadadeer&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Technical%20Consultant%20%7C%20CEO%20at%20Eazisols&descSize=16&descAlignY=60" alt="Abdul Qadadeer — Full Stack Developer, Technical Consultant, CTO at Eazisols" />
 
 ### I build software. Connect systems. Automate workflows.
 
@@ -29,7 +29,7 @@ into practical applications that people can depend on.
 
 ## 👋 About Me
 
-I'm **Muhammad Asad**, a full-stack developer, technical consultant, project manager, and **CEO at Eazisols**, based in Lahore, Pakistan.
+I'm **Abdul Qadadeer**, a full-stack developer, technical consultant, project manager, and **CTO at Eazisols**, based in Lahore, Pakistan.
 
 My background combines hands-on software engineering with project delivery and business consulting. I work across frontend development, backend architecture, databases, integrations, cloud deployment, and AI automation.
 
@@ -263,10 +263,10 @@ agency collaborations, and ongoing product support.
 
 <br />
 
-**[eazisols.com](https://eazisols.com) · [info@eazisols.com](mailto:info@eazisols.com)**
+**[eazisols.com](https://eazisols.com) · [abdul.qadeer@eazisols.com](mailto:abdul.qadeer@eazisols.com)**
 
-**Muhammad Asad · Full Stack Developer & Technical Consultant**
+**Abdul Qadadeer · Full Stack Developer & Technical Consultant**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022C22,50:047857,100:14B8A6&height=110&section=footer" alt="" />
 
 </div>
